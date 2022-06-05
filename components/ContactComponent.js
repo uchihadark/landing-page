@@ -15,10 +15,10 @@ function ContactComponent() {
                             dolore
                         </p>
                         <div>
-                            <i class="fa fa-facebook"></i>
-                            <i class="fa fa-twitter"></i>
-                            <i class="fa fa-instagram"></i>
-                            <i class="fa fa-linkedin"></i>
+                            <i className="fa fa-facebook"></i>
+                            <i className="fa fa-twitter"></i>
+                            <i className="fa fa-instagram"></i>
+                            <i className="fa fa-linkedin"></i>
                         </div>
                     </Col>
                     <Col xs={12} md={3}>
