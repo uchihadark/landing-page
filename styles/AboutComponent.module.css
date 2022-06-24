@@ -1,0 +1,12 @@
+/* AboutComponent */
+.aboutComponentBg{
+    margin-top: 100px;
+    background-color: white;
+  }
+  
+  .aboutDetails {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }

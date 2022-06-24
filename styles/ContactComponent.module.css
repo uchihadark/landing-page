@@ -1,0 +1,15 @@
+/* ContactComponent */
+.contactComponentBg {
+    margin-top: 100px;
+    background-color: rgba(230, 163, 148, 0.459);
+  }
+  
+  .contactComponent {
+    padding-left: 20px;
+    padding-right: 20px;
+    min-height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

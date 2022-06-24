@@ -1,0 +1,9 @@
+/* ServiceComponent */
+.serviceComponentBg {
+    background-color: white;
+    padding-top: 100px;
+  }
+  
+  .serviceContainer {
+    min-height: 50vh;
+  }
